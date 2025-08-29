@@ -5,6 +5,14 @@
 ## Education  
 - B.Sc., Computer Science | Universidad Nacional de Colombia (_Expected Nov 2025_) — GPA 4.3/5.0  
 
+## Research Experience  
+**Research Intern @ Purdue University (_Aug 2024 – Feb 2025_)**  
+- Designed a Python-based app using **GPT-4o** to support competitive programming students through self-explanation and reflective prompts.  
+- Applied prompt engineering to align AI guidance with programming learning objectives.  
+
+**Research Project @ Universidad Nacional de Colombia (_Feb 2024 – Jun 2024_)**  
+- Studied **differential privacy algorithms** in statistical inference with user-level privacy constraints.  
+
 ## Work Experience  
 **Software Developer @ Amadeus (_April 2025 – Present_)**  
 - Part of the Disruption team, developing C++ code, implementing business logic, and designing unit and regression tests.  
@@ -19,13 +27,6 @@
 **Full Stack Engineer @ Instituto de Investigaciones Jurídico Sociales UNAL (_April 2021 – July 2021_)**  
 - Built a Flask web app integrating citation database APIs to automate research paper collection.  
 
-## Research Experience  
-**Research Intern @ Purdue University (_Aug 2024 – Feb 2025_)**  
-- Designed a Python-based app using **GPT-4o** to support competitive programming students through self-explanation and reflective prompts.  
-- Applied prompt engineering to align AI guidance with programming learning objectives.  
-
-**Research Project @ Universidad Nacional de Colombia (_Feb 2024 – Jun 2024_)**  
-- Studied **differential privacy algorithms** in statistical inference with user-level privacy constraints.  
 
 ## Projects  
 ### mc² Talent (_May 2025_)  
