@@ -6,6 +6,10 @@
 - B.Sc., Computer Science | Universidad Nacional de Colombia (_Expected Nov 2025_) — GPA 4.3/5.0  
 
 ## Research Experience  
+**GNN Research Project @ Universidad Nacional de Colombia (_June 2025 – Present_)**  
+- Investigating graph neural network approaches with an emphasis on practical evaluation.
+- Developing a reproducible JAX/Haiku/Optax pipeline with custom components to benchmark alternatives. 
+
 **Research Intern @ Purdue University (_Aug 2024 – Feb 2025_)**  
 - Designed a Python-based app using **GPT-4o** to support competitive programming students through self-explanation and reflective prompts.  
 - Applied prompt engineering to align AI guidance with programming learning objectives.  
