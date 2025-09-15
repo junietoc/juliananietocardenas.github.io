@@ -51,4 +51,5 @@
 
 ## Links  
 - [GitHub](https://github.com/junietoc)  
-- [LinkedIn](https://www.linkedin.com/in/juliana-nieto-c%C3%A1rdenas-5ba3491b6/)  
+- [LinkedIn](https://www.linkedin.com/in/juliana-nieto-c%C3%A1rdenas-5ba3491b6/)
+- [Blog] (https://junietoc.bearblog.dev/blog/)
