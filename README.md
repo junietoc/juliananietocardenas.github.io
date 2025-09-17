@@ -6,16 +6,24 @@
 - B.Sc., Computer Science | Universidad Nacional de Colombia (_Expected Nov 2025_) — GPA 4.3/5.0  
 
 ## Research Experience  
-**GNN Research Project @ Universidad Nacional de Colombia (_June 2025 – Present_)**  
+**GNN Research Project @ Universidad Nacional de Colombia (_Sept 2025 – Present_)**. *Mentors: Prof. Humberto Sarria* & *Petar Veličković*  
 - Investigating graph neural network approaches with an emphasis on practical evaluation.
 - Developing a reproducible JAX/Haiku/Optax pipeline with custom components to benchmark alternatives. 
 
-**Research Intern @ Purdue University (_Aug 2024 – Feb 2025_)**  
+**Research Intern @ Purdue University (_Aug 2024 – Feb 2025_)**. *PIs: Prof. [Andres Bejarano](https://andresbejarano.name/) and [Ethan Dickey](https://www.cs.purdue.edu/homes/dickeye/)*  
 - Designed a Python-based app using **GPT-4o** to support competitive programming students through self-explanation and reflective prompts.  
 - Applied prompt engineering to align AI guidance with programming learning objectives.  
 
-**Research Project @ Universidad Nacional de Colombia (_Feb 2024 – Jun 2024_)**  
-- Studied **differential privacy algorithms** in statistical inference with user-level privacy constraints.  
+**Research Project @ Universidad Nacional de Colombia (_Feb 2024 – Jun 2024_)**.  *Mentored by: Prof. [Marco Avella](https://sites.google.com/site/marcoavellamedina/home)*
+- Studied **differential privacy algorithms** in statistical inference with user-level privacy constraints in a collaborative project with Columbia University
+
+## Publications
+
+- **Owlgorithm: Supporting Self-Regulated Learning in Competitive Programming through LLM-Driven Reflection.**  
+***Juliana Nieto-Cardenas**, Erin Kramer, Peter Kurto, Ethan Dickey, Andres Bejarano.*  
+_To appear in Proceedings of the 57th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE TS 2026). Association for Computing Machinery, New York, NY, USA._  
+**Status:** Accepted (ERT track). **Venue:** SIGCSE TS 2026.  
+**Artifacts:** [BibTeX](#bibtex-owlgorithm) · (PDF coming soon) · (Slides coming soon)
 
 ## Work Experience  
 **Software Developer @ Amadeus (_April 2025 – Present_)**  
