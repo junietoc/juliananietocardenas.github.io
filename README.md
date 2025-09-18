@@ -6,7 +6,7 @@
 - B.Sc., Computer Science | Universidad Nacional de Colombia (_Expected Nov 2025_) — GPA 4.3/5.0  
 
 ## Research Experience  
-**GNN Research Project @ Universidad Nacional de Colombia (_Sept 2025 – Present_)**. *Mentors: Prof. Humberto Sarria* & *Petar Veličković*  
+**GNN Research Project @ Universidad Nacional de Colombia (_Sept 2025 – Present_)**. *Mentors: Prof. Humberto Sarria* & *Petar Veličković (external mentor)*  
 - Investigating graph neural network approaches with an emphasis on practical evaluation.
 - Developing a reproducible JAX/Haiku/Optax pipeline with custom components to benchmark alternatives. 
 
