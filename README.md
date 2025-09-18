@@ -20,7 +20,7 @@
 ## Publications
 
 - **Owlgorithm: Supporting Self-Regulated Learning in Competitive Programming through LLM-Driven Reflection.**  
-***Juliana Nieto-Cardenas**, Erin Kramer, Peter Kurto, Ethan Dickey, Andres Bejarano.*  
+* **Juliana Nieto-Cardenas**, Erin Kramer, Peter Kurto, Ethan Dickey, Andres Bejarano.*  
 _To appear in Proceedings of the 57th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE TS 2026). Association for Computing Machinery, New York, NY, USA._  
 **Status:** Accepted (ERT track). **Venue:** SIGCSE TS 2026.  
 **Artifacts:** [BibTeX](#bibtex-owlgorithm) · (PDF coming soon) · (Slides coming soon)
